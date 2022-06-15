@@ -1,5 +1,5 @@
 print("Hello world!")
-<<<<<<< master
+master
 print("Hello once again")
 =======
 print("Hello darkness my old friend")
