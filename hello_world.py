@@ -1,5 +1,5 @@
 print("Hello world!")
-master
+main
 print("Hello once again")
 print("Hello darkness my old friend")
 feature/modify-print
